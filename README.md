@@ -6,7 +6,7 @@
     <img src="docs/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Task App</h3>
+  <h3 align="center">my-task-app</h3>
 
   <p align="center">
     Projecto Criado utilizandos as tecnologias mais recentes do mercado,
@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Task App é um gerenciador de tarefas, permite criar, editar, marcar como finalizado,
+my-task-app é um gerenciador de tarefas, permite criar, editar, marcar como finalizado,
 e remover tarefas
 
 ### Built With
@@ -59,7 +59,7 @@ para obter o npm https://www.npmjs.com/get-npm
 
 1. Clone the repo
 ```sh
-git clone https://github.com/AdilsonFuxe/devradar.git
+git clone https://github.com/AdilsonFuxe/my-task-app.git
 ```
 2. Configuração do servidor
  
@@ -118,6 +118,7 @@ ou
 ```sh
 yarn start
 ```
+o servidor vai rodar em `http://localhost:3000`
 
 <!-- USAGE EXAMPLES -->
 ## Usage
